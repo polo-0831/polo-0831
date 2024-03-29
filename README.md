@@ -1,6 +1,6 @@
 <div align="center">
 
-**<h1>What's up bro.👋 Here is Rusty Po1o</h>**
+**<h1>Hello World!👋 Here is Rusty Po1o</h>**
 
 </div>
 
@@ -33,11 +33,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/polo-0831/count.sv
 
 ### My Skill Set
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <div align="center">
 
 **<h1>Stay Thirsty!🧠</h>**
 
 </div>
+
+
 
