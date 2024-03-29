@@ -27,17 +27,21 @@
 ![](https://github-readme-stats.vercel.app/api?username=polo-0831&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polo-0831&layout=compact&theme=tokyonight)
 
+**<h2>You are my ![Visitor Count](https://profile-counter.glitch.me/polo-0831/count.svg) visitor,Thank You!</h2>**:kissing_heart::kissing_heart:
+
 </div>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/polo-0831/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+![trophy](https://github-profile-trophy.vercel.app/?username=polo-0831&theme=juicyfresh)
 
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
 <div align="center">
 
 **<h1>Stay Thirsty!🧠</h>**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71204&random=false&width=435&lines=Thanks+for+coming!)](https://git.io/typing-svg)
 
 </div>
 
