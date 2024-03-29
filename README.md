@@ -41,7 +41,7 @@
 ### 🎧 Spotify Playing
 
 ![spotify-github-profile](/default.svg)
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f13ysr9ke6otrmzqmdcbxty29&cover_image=true&theme=default)](https://github.com/polo-0831/spotify-github-profile) -->
 
 
 <div align="center">
