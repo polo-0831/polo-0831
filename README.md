@@ -41,6 +41,7 @@
 <div align="center">
 
 **<h1>Stay Thirsty!🧠</h>**
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71204&random=false&width=435&lines=Thanks+for+coming!)](https://git.io/typing-svg)
 
 </div>
