@@ -48,7 +48,7 @@
 </div>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/polo-0831/polo-0831/blob/master/Bottom.svg" alt="Github Stats" />
 </p>
 
 
