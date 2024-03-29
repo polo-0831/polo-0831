@@ -22,6 +22,7 @@
 - Film technology
 - Racing, sound of engine
 
+🌱 My Efforts:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=polo-0831&show_icons=true&theme=synthwave)
@@ -46,5 +47,8 @@
 
 </div>
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
