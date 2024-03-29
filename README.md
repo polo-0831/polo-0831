@@ -22,11 +22,22 @@
 - Film technology
 - Racing, sound of engine
 
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
+<div align="center">
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+![](https://github-readme-stats.vercel.app/api?username=polo-0831&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polo-0831&layout=compact&theme=tokyonight)
+
+</div>
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/polo-0831/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<div align="center">
+
+**<h1>Stay Thirsty!🧠</h>**
+
+</div>
 
