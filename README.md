@@ -5,10 +5,22 @@
 </div>
 
 - 🔭 Always dive into mind palace, explore the meaning of existence.
-- 💬 Python/Maching Vision/Robotic is my area.
-- 
-- 📫 How to reach me: wisdom_zhe@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
+- 💡 Python/Maching Vision/Robotic is my area.
+- 🌍 Elon Musk fanboi, drunking in the universe!
+- 📫 How to reach me: luoziqipolo@qq.com
+
+💬 [My Blog](https://polo-0831.github.io/)(dynamically updating)
+
+🔍 My interest
+- Machine Vision, Yolo and ViT
+- Robotics, STM32 and [Raspberrypi](https://www.raspberrypi.com/)
+
+🔥 XXX Aficionados
+- Electric Music
+- Hiphop
+- Soccor (Mia san mia🟥)
+- Film technology
+- Racing, sound of engine
 
 ![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
 
