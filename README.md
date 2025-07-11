@@ -12,8 +12,10 @@
 💬 [My Blog](https://polo-0831.github.io/)(dynamically updating)
 
 🔍 My interest
-- Machine Vision, Yolo and ViT
+- Machine Vision
+- Embodied Intelligence
 - Robotics, STM32 and [Raspberrypi](https://www.raspberrypi.com/)
+- Automobile and AI
 
 🔥 XXX Aficionados
 - Electric Music
