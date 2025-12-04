@@ -23,22 +23,22 @@
 🌱 My Efforts:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=polo-0831&show_icons=true&theme=synthwave)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=polo-0831&layout=compact&theme=tokyonight)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=polo-0831&show_icons=true&theme=synthwave)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=polo-0831&layout=compact&theme=tokyonight)
+
 
 <h2>You are my <img src="https://profile-counter.glitch.me/polo-0831/count.svg" /> visitor, Thank You! ❤️</h2>
 
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=polo-0831&theme=juicyfresh&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=polo-0831&theme=juicyfresh&no-frame=true&no-bg=true)
 
-### My Skill Set
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f13ysr9ke6otrmzqmdcbxty29&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f13ysr9ke6otrmzqmdcbxty29&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
 
 <div align="center">
 
