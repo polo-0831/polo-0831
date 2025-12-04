@@ -23,6 +23,8 @@
 🌱 My Efforts:
 <div align="center">
 
+[![Roxxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=polo-0831)](https://github.com/polo-0831/github-readme-stats)
+
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=polo-0831&show_icons=true&theme=synthwave)
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=polo-0831&layout=compact&theme=tokyonight)
