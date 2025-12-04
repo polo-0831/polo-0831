@@ -1,21 +1,20 @@
 <div align="center">
 
-**<h1>Hello World!👋 Here is Rusty Po1o</h>**
+**<h1>Hello World!👋 Here is Roxxi </h>**
 
 </div>
 
 - 🔭 Always dive into mind palace, explore the meaning of existence.
-- 💡 Python/Maching Vision/Robotic is my area.
+- 💡 Machine Vision/Robotic is my area.
 - 🌍 Elon Musk fanboi, drunking in the universe!
 - 📫 How to reach me: luoziqipolo@qq.com
 
-💬 [My Blog](https://polo-0831.github.io/)(dynamically updating)
+💬 [My Blog](https://polo-0831.github.io/)(updating...)
 
 🔍 My interest
 - Machine Vision
-- Embodied Intelligence
-- Robotics, STM32 and [Raspberrypi](https://www.raspberrypi.com/)
-- Automobile and AI
+- Embodied Intelligence(RL, IL, VLA...)
+- Humanoid Robot(Whole-body-Control, Manipulation)
 
 🔥 XXX Aficionados
 - Electric Music
